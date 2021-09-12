@@ -51,7 +51,7 @@ ensure gcphone
 
 ensure esx_addons_gcphone
 
--- Ne pas start le fichier RageUI present dans "pack_phone/[menu]/RageUI
+-- Ne pas start le fichier RageUI present dans "pack_phone/[menu]/RageUI"
 
 -- Mais ne le supprimer pas garder le.
 
@@ -65,3 +65,7 @@ Nehco#0069
 Discord Five-Dev : https://discord.gg/TfjZwbx
 
 Bisous !
+
+Modifier par : 
+
+H2C Gaming#3996
