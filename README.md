@@ -5,16 +5,16 @@ Modifier par H2C Gaming
 
 Contenus
 
--Téléphone (Gcphone V1) 
--Système de Carte Sim
--Mapping ( possible de le compacter )
--Menu Carte Sim avec possiblité de donner , utiliser plusieurs carte sim...
--Menu Shops Pour le téléphone et carte sim 
--Peds
--Blips
--Vocale + Radio en ITEM (mumble)
--Téléphone déjà configuré pour le mumble
--SQL ( N'oubliez pas de le mettre ! )
+-Téléphone (Gcphone V1)  |
+-Système de Carte Sim |
+-Mapping ( possible de le compacter ) |
+-Menu Carte Sim avec possiblité de donner , utiliser plusieurs carte sim... |
+-Menu Shops Pour le téléphone et carte sim |
+-Peds |
+-Blips |
+-Vocale + Radio en ITEM (mumble) |
+-Téléphone déjà configuré pour le mumble |
+-SQL ( N'oubliez pas de le mettre ! ) |
 
 -----------------------------------
 
